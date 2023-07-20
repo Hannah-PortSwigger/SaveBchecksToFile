@@ -16,3 +16,6 @@ This is a first iteration.
 - UI to configure locations
 - Recurse GitHub directories rather than manually specifying
 - Use threads to maintain responsiveness in Burp
+
+## Limitations
+Due to the import mechanism, it is not possible to directly import BChecks to the user options configuration. Users will need to import the folder manually.
